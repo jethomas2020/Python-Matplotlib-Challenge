@@ -2,10 +2,12 @@
 
 Matplotlib - The Power of Plots
 
-Executive Summary from Review:  Observations and Insights based on info and ask below
+EXECUTIVE SUMMARY:  Observations and Insights based on info and ask below
 
-- Capomulin shows the maximum reduction in tumor growth
-- Mouse weight seems to contribute to the significant effectiveness in curing tumor of drug regimen.
+- Capomulin shows the maximum reduction in tumor growth in comparison to other treatments. 
+- There is a strong correlation (0.84) between average tummor volume and mouse weight. i.e. the lower the weight, the lower the average tumor volume. 
+- The average tumor volume (mm3) reduced significantly in the observation of a single mouse reducing from 45 to 39 during the 45-day study. 
+- The distribution of male and female mice particpation was balanced representing almost equal distributions. 
 
 
 Background: 
